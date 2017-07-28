@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="inactiveCell">#24b8c0c1</color>
+    <color name="activeCell">#29d1e7</color>
+    <color name="inactiveText">#ff7300</color>
+    <color name="activeText">#fffffe</color>
+</resources>
